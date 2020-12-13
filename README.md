@@ -14,3 +14,6 @@ Naturally, the correct solution is to solve this with constraint programming.
 
 ## Acknowledgements
 Thank you jdevor for the geocache puzzle, pintowar for the ORtools tutorial. and google for ORtools. :)
+
+## Notes
+The puzzle I wanted to solve was coded with character 0-F, but my test case was 1-G. So right now it will work on the 0-F case but not the 1-G codes. D'oh.
